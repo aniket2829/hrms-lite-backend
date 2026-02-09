@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.sqlite3
+*.db
+*.db-journal
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
